@@ -1,43 +1,88 @@
 {
   "tcp_alloc": {
     "allowed": 6,
-    "claimed": 0,
-    "desired": 0
+    "claimed": 1,
+    "desired": 1
   },
   "tunnels": [
     {
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "edit-files.gl.at.ply.gg",
-          "assigned_srv": null,
+          "assigned_domain": "david-pic.gl.joinmc.link",
+          "assigned_srv": "david-pic.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "6505825a-dbfc-4408-b9cf-f1d351202058",
-          "ip_hostname": "16.ip.gl.ply.gg",
+          "id": "85559644-d568-46a1-bb3d-cce60ad43ba5",
+          "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 28183,
-          "port_start": 28182,
+          "port_end": 38511,
+          "port_start": 38510,
           "region": "global",
-          "static_ip4": "147.185.221.16",
-          "tunnel_ip": "2602:fbaf:0:1::10"
+          "static_ip4": "147.185.221.20",
+          "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-23T05:08:19.292601Z",
+      "created_at": "2024-06-23T06:24:26.723314Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "a8125fd9-6536-43ed-9fc4-bb84241df952",
+      "id": "1ea29742-80e4-4822-85bb-1bdfeed351af",
+      "name": "Minecraft Java",
+      "origin": {
+        "data": {
+          "agent_id": "cc110d03-e4f5-449e-986c-6f81b75f2c0c",
+          "agent_name": "chafaland",
+          "local_ip": "127.0.0.1",
+          "local_port": 28510
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "tcp",
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": "minecraft-java"
+    },
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "express-performer.gl.at.ply.gg",
+          "assigned_srv": null,
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "27352ee4-15e9-431e-aefb-273a2011235c",
+          "ip_hostname": "20.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 2758,
+          "port_start": 2757,
+          "region": "global",
+          "static_ip4": "147.185.221.20",
+          "tunnel_ip": "2602:fbaf:0:1::14"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2024-06-23T06:26:42.445757Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "3bba9a7d-2e67-4c1b-9cb0-b2860c79a49c",
       "name": "unnamed",
       "origin": {
         "data": {
           "agent_id": "cc110d03-e4f5-449e-986c-6f81b75f2c0c",
           "agent_name": "chafaland",
           "local_ip": "127.0.0.1",
-          "local_port": 28182
+          "local_port": 2757
         },
         "type": "agent"
       },
