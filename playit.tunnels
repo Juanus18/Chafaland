@@ -9,35 +9,35 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "david-pic.gl.joinmc.link",
-          "assigned_srv": "david-pic.gl.joinmc.link",
+          "assigned_domain": "seen-hopes.gl.joinmc.link",
+          "assigned_srv": "seen-hopes.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "85559644-d568-46a1-bb3d-cce60ad43ba5",
+          "id": "967fde92-78e3-46ec-82c7-8996827c078a",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 38511,
-          "port_start": 38510,
+          "port_end": 42168,
+          "port_start": 42167,
           "region": "global",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-23T06:24:26.723314Z",
+      "created_at": "2024-06-25T00:13:01.897238Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "1ea29742-80e4-4822-85bb-1bdfeed351af",
+      "id": "006753a9-1119-4a12-9ee6-c30d93198dd8",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "cc110d03-e4f5-449e-986c-6f81b75f2c0c",
-          "agent_name": "chafaland",
+          "agent_id": "7ef18f95-19a6-4d4e-a4fb-8ae548ccbc16",
+          "agent_name": "Chafaland 2",
           "local_ip": "127.0.0.1",
-          "local_port": 28510
+          "local_port": 25565
         },
         "type": "agent"
       },
@@ -54,35 +54,35 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "express-performer.gl.at.ply.gg",
+          "assigned_domain": "allow-via.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "27352ee4-15e9-431e-aefb-273a2011235c",
+          "id": "fe7a9fea-fa7e-47ec-bc57-5a2fe98d3199",
           "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 2758,
-          "port_start": 2757,
+          "port_end": 2742,
+          "port_start": 2741,
           "region": "global",
           "static_ip4": "147.185.221.20",
           "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-06-23T06:26:42.445757Z",
+      "created_at": "2024-06-25T00:14:11.581465Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "3bba9a7d-2e67-4c1b-9cb0-b2860c79a49c",
+      "id": "127c3448-93d5-4047-8a8f-d1d8a8f6bc53",
       "name": "unnamed",
       "origin": {
         "data": {
-          "agent_id": "cc110d03-e4f5-449e-986c-6f81b75f2c0c",
-          "agent_name": "chafaland",
+          "agent_id": "7ef18f95-19a6-4d4e-a4fb-8ae548ccbc16",
+          "agent_name": "Chafaland 2",
           "local_ip": "127.0.0.1",
-          "local_port": 2757
+          "local_port": 2741
         },
         "type": "agent"
       },
